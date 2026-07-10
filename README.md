@@ -32,6 +32,6 @@ To use a custom domain (e.g. `compressly.app`), add it under **Settings → Page
 
 ## Customizing
 
-- **Support email:** search for `support@compressly.app` in `privacy.html` and `support.html` and replace it.
+- **Support email:** when ready, add contact details to the contact card in `support.html` and the "Contact Us" section in `privacy.html` (both currently say contact information will be added in a future update).
 - **App Store link:** when the app is live, replace the `href="#"` on the "Coming Soon on the App Store" button in `index.html` with the real store URL.
 - **Accent color:** edit `--accent` in `css/style.css`.
